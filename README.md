@@ -3,8 +3,8 @@
 ![markdown](https://raw.githubusercontent.com/alibaba/MNN/master/doc/banner.png "markdown")
 
 ## 单图片处理
- *1.运行:`./auto.sh pic`*
+ 1.运行:`./auto.sh pic`
 
 ## 视频处理
-  *1.修改CMakeLists.txt中src/main.cpp为src/video.cpp * 
-  *2.运行:`./auto.sh video`*
+  1.修改CMakeLists.txt中src/main.cpp为src/video.cpp 
+  2.运行:`./auto.sh video`
